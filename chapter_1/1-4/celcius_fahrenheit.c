@@ -1,5 +1,7 @@
 /*
  * Write a program to print the corresponding Celsius to Fahrenheit table.
+ *
+ * Date: March 19, 2012
  */
 
 #include <stdio.h>

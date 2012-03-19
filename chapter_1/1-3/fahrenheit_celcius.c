@@ -1,5 +1,7 @@
 /*
  * Modify the temperature conversion program to print a heading above the table.
+ * 
+ * Date: March 19, 2012
  */
 
 #include <stdio.h>
