@@ -15,10 +15,7 @@ void reverse(char line[]);
 main()
 {
   int len;
-  int max;
   char line[MAXLINE];
-
-  max = 0;
 
   while ((len = _getline(line, MAXLINE)) > 0)
     if (len > 0) {
